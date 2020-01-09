@@ -1,8 +1,13 @@
 <?php
+// LOCAL !!!!!!!
+$username = 'root';
+$dsn = 'mysql:host=localhost; dbname=register';
+$password = '';// LOCAL !!!!!!!
 
-$username = 'tBAVdT15DA';
-$dsn = 'mysql:host=remotemysql.com:3306; dbname=tBAVdT15DA';
-$password = 'P6sSFzPxIX';
+// REMOTE!!!
+// $username = 'tBAVdT15DA';
+// $dsn = 'mysql:host=remotemysql.com:3306; dbname=tBAVdT15DA';
+// $password = 'P6sSFzPxIX';
 
 try{
 
