@@ -1,0 +1,23 @@
+body {
+    padding: 70px;
+    font-family: 'Almarai', sans-serif;
+}
+.base {
+    padding: 80px 15px;
+     text-align: center;
+}
+#bform {
+    text-align: center;
+    width: 500px;
+}
+.custom-align-input {
+    text-align: center;
+}
+.custom-size-button {
+    width: 200px;
+}
+.custom-signin-btn {
+    width: 150px;
+    height: 40px;
+    margin: 10px;
+}
